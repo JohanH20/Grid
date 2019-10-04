@@ -1,0 +1,13 @@
+.wrapper{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-area: "Johan Teknik";
+}
+.Johan{
+	display:grid;
+	grid-area: "Johan";
+}
+.Teknik{
+	display:grid;
+	grid-area: "Teknik";
+}
